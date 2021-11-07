@@ -1,5 +1,5 @@
 {
-	"womanData": {
+	"sexData": [{
 		"Data": [{
 			"Name": "短篇",
 			"SubItems": [{
@@ -291,8 +291,7 @@
 			}]
 		}],
 		"sex": 0
-	},
-	"manData": {
+	},{
 		"Data": [{
 			"Name": "科幻",
 			"SubItems": [{
@@ -574,5 +573,5 @@
 			}]
 		}],
 		"sex": 1
-	}
+	}]
 }
