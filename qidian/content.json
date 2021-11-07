@@ -1,4 +1,4 @@
-{
+[{
 	"Data": [{
 		"Name": "短篇",
 		"SubItems": [{
@@ -22,8 +22,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=30090",
 			"Name": "诗歌散文"
-		}],
-		"sex": 0
+		}]
 	}, {
 		"Name": "现实生活",
 		"SubItems": [{
@@ -38,112 +37,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=30121",
 			"Name": "家与情感"
-		}],
-		"sex": 0
-	}, {
-		"Name": "科幻",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100119",
-			"Name": "末世危机"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100112",
-			"Name": "古武机甲"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100113",
-			"Name": "未来世界"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100115",
-			"Name": "星际文明"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100116",
-			"Name": "超级科技"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100117",
-			"Name": "时空穿梭"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100118",
-			"Name": "进化变异"
-		}],
-		"sex": 1
-	}, {
-		"Name": "体育",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100100",
-			"Name": "篮球运动"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100101",
-			"Name": "体育赛事"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100103",
-			"Name": "足球运动"
-		}],
-		"sex": 1
-	}, {
-		"Name": "轻小说",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100121",
-			"Name": "原生幻想"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100122",
-			"Name": "恋爱日常"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100124",
-			"Name": "衍生同人"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100125",
-			"Name": "搞笑吐槽"
-		}],
-		"sex": 1
-	}, {
-		"Name": "短篇",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100151",
-			"Name": "短篇小说"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100153",
-			"Name": "美文游记"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100154",
-			"Name": "生活随笔"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100155",
-			"Name": "评论文集"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100156",
-			"Name": "诗歌散文"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100157",
-			"Name": "人物传记"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100158",
-			"Name": "影视剧本"
-		}],
-		"sex": 1
-	}, {
-		"Name": "现实",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20104",
-			"Name": "社会乡土"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100046",
-			"Name": "现实百态"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100047",
-			"Name": "爱情婚姻"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20108",
-			"Name": "青春文学"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20107",
-			"Name": "成功励志"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20106",
-			"Name": "文学艺术"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20105",
-			"Name": "生活时尚"
-		}],
-		"sex": 1
+		}]
 	}, {
 		"Name": "科幻空间",
 		"SubItems": [{
@@ -167,27 +61,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101603",
 			"Name": "古武机甲"
-		}],
-		"sex": 0
-	}, {
-		"Name": "悬疑",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100070",
-			"Name": "诡秘悬疑"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100071",
-			"Name": "奇妙世界"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100072",
-			"Name": "侦探推理"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100073",
-			"Name": "探险生存"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100074",
-			"Name": "古今传奇"
-		}],
-		"sex": 1
+		}]
 	}, {
 		"Name": "纯爱小说",
 		"SubItems": [{
@@ -211,8 +85,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101900",
 			"Name": "古纯"
-		}],
-		"sex": 0
+		}]
 	}, {
 		"Name": "游戏竞技",
 		"SubItems": [{
@@ -227,27 +100,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101801",
 			"Name": "网游情缘"
-		}],
-		"sex": 0
-	}, {
-		"Name": "游戏",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100093",
-			"Name": "游戏异界"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20103",
-			"Name": "游戏主播"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20102",
-			"Name": "游戏系统"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100090",
-			"Name": "电子竞技"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100091",
-			"Name": "虚拟网游"
-		}],
-		"sex": 1
+		}]
 	}, {
 		"Name": "玄幻",
 		"SubItems": [{
@@ -293,27 +146,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101108",
 			"Name": "民国情缘"
-		}],
-		"sex": 0
-	}, {
-		"Name": "武侠",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20100",
-			"Name": "武侠同人"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20099",
-			"Name": "古武未来"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100020",
-			"Name": "传统武侠"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100021",
-			"Name": "武侠幻想"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100022",
-			"Name": "国术无双"
-		}],
-		"sex": 1
+		}]
 	}, {
 		"Name": "古代言情",
 		"SubItems": [{
@@ -346,30 +179,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=30094",
 			"Name": "西方时空"
-		}],
-		"sex": 0
-	}, {
-		"Name": "奇幻",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100010",
-			"Name": "现代魔法"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100011",
-			"Name": "剑与魔法"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100012",
-			"Name": "史诗奇幻"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100013",
-			"Name": "黑暗幻想"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100014",
-			"Name": "历史神话"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100015",
-			"Name": "另类幻想"
-		}],
-		"sex": 1
+		}]
 	}, {
 		"Name": "浪漫青春",
 		"SubItems": [{
@@ -384,30 +194,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101303",
 			"Name": "青春纯爱"
-		}],
-		"sex": 0
-	}, {
-		"Name": "都市",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100041",
-			"Name": "都市生活"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100141",
-			"Name": "娱乐明星"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100042",
-			"Name": "都市异能"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100143",
-			"Name": "商战职场"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100044",
-			"Name": "异术超能"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100048",
-			"Name": "青春校园"
-		}],
-		"sex": 1
+		}]
 	}, {
 		"Name": "仙侠奇缘",
 		"SubItems": [{
@@ -425,28 +212,8 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101203",
 			"Name": "远古洪荒"
-		}],
-		"sex": 0
-	}, {
-		"Name": "仙侠",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20101",
-			"Name": "古典仙侠"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100030",
-			"Name": "修真文明"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100031",
-			"Name": "幻想修仙"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100032",
-			"Name": "现代修真"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100033",
-			"Name": "神话修真"
-		}],
-		"sex": 1
-	}, {
+		}]
+	}}, {
 		"Name": "悬疑推理",
 		"SubItems": [{
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=30099",
@@ -466,8 +233,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101504",
 			"Name": "神秘文化"
-		}],
-		"sex": 0
+		}]
 	}, {
 		"Name": "轻小说",
 		"SubItems": [{
@@ -497,8 +263,262 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=30106",
 			"Name": "影视衍生"
-		}],
-		"sex": 0
+		}]
+	}, {
+		"Name": "玄幻言情",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101406",
+			"Name": "西方奇幻"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101407",
+			"Name": "远古神话"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101408",
+			"Name": "异族恋情"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101409",
+			"Name": "魔法幻情"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=30092",
+			"Name": "异能超术"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101401",
+			"Name": "东方玄幻"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101404",
+			"Name": "异世大陆"
+		}]
+	}],
+	"sex": 0
+},{
+	"Data": [{
+		"Name": "科幻",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100119",
+			"Name": "末世危机"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100112",
+			"Name": "古武机甲"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100113",
+			"Name": "未来世界"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100115",
+			"Name": "星际文明"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100116",
+			"Name": "超级科技"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100117",
+			"Name": "时空穿梭"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100118",
+			"Name": "进化变异"
+		}]
+	}, {
+		"Name": "体育",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100100",
+			"Name": "篮球运动"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100101",
+			"Name": "体育赛事"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100103",
+			"Name": "足球运动"
+		}]
+	}, {
+		"Name": "轻小说",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100121",
+			"Name": "原生幻想"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100122",
+			"Name": "恋爱日常"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100124",
+			"Name": "衍生同人"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100125",
+			"Name": "搞笑吐槽"
+		}]
+	}, {
+		"Name": "短篇",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100151",
+			"Name": "短篇小说"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100153",
+			"Name": "美文游记"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100154",
+			"Name": "生活随笔"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100155",
+			"Name": "评论文集"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100156",
+			"Name": "诗歌散文"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100157",
+			"Name": "人物传记"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100158",
+			"Name": "影视剧本"
+		}]
+	}, {
+		"Name": "现实",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20104",
+			"Name": "社会乡土"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100046",
+			"Name": "现实百态"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100047",
+			"Name": "爱情婚姻"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20108",
+			"Name": "青春文学"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20107",
+			"Name": "成功励志"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20106",
+			"Name": "文学艺术"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20105",
+			"Name": "生活时尚"
+		}]
+	}, {
+		"Name": "悬疑",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100070",
+			"Name": "诡秘悬疑"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100071",
+			"Name": "奇妙世界"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100072",
+			"Name": "侦探推理"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100073",
+			"Name": "探险生存"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100074",
+			"Name": "古今传奇"
+		}]
+	}, {
+		"Name": "游戏",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100093",
+			"Name": "游戏异界"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20103",
+			"Name": "游戏主播"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20102",
+			"Name": "游戏系统"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100090",
+			"Name": "电子竞技"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100091",
+			"Name": "虚拟网游"
+		}]
+	}, {
+		"Name": "玄幻",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100001",
+			"Name": "东方玄幻"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100002",
+			"Name": "异世大陆"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100003",
+			"Name": "王朝争霸"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100004",
+			"Name": "高武世界"
+		}]
+	}, {
+		"Name": "武侠",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20100",
+			"Name": "武侠同人"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20099",
+			"Name": "古武未来"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100020",
+			"Name": "传统武侠"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100021",
+			"Name": "武侠幻想"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100022",
+			"Name": "国术无双"
+		}]
+	}, {
+		"Name": "奇幻",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100010",
+			"Name": "现代魔法"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100011",
+			"Name": "剑与魔法"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100012",
+			"Name": "史诗奇幻"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100013",
+			"Name": "黑暗幻想"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100014",
+			"Name": "历史神话"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100015",
+			"Name": "另类幻想"
+		}]
+	}, {
+		"Name": "都市",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100041",
+			"Name": "都市生活"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100141",
+			"Name": "娱乐明星"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100042",
+			"Name": "都市异能"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100143",
+			"Name": "商战职场"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100044",
+			"Name": "异术超能"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100048",
+			"Name": "青春校园"
+		}]
+	}, {
+		"Name": "仙侠",
+		"SubItems": [{
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=20101",
+			"Name": "古典仙侠"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100030",
+			"Name": "修真文明"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100031",
+			"Name": "幻想修仙"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100032",
+			"Name": "现代修真"
+		}, {
+			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100033",
+			"Name": "神话修真"
+		}]
 	}, {
 		"Name": "历史",
 		"SubItems": [{
@@ -531,33 +551,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100069",
 			"Name": "民间传说"
-		}],
-		"sex": 1
-	}, {
-		"Name": "玄幻言情",
-		"SubItems": [{
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101406",
-			"Name": "西方奇幻"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101407",
-			"Name": "远古神话"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101408",
-			"Name": "异族恋情"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101409",
-			"Name": "魔法幻情"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=30092",
-			"Name": "异能超术"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101401",
-			"Name": "东方玄幻"
-		}, {
-			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=101404",
-			"Name": "异世大陆"
-		}],
-		"sex": 0
+		}]
 	}, {
 		"Name": "军事",
 		"SubItems": [{
@@ -575,7 +569,7 @@
 		}, {
 			"Value": "Orders=-1&site=1&size=-1&action=-1&update=-1&vipBoutiqueSignstatus=-1a-1a-1&channel=100054",
 			"Name": "谍战特工"
-		}],
-		"sex": 1
-	}]
-}
+		}]
+	}],
+	"sex": 1
+}]
