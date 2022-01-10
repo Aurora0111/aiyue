@@ -4,6 +4,7 @@
       "Data": [
         {
           "Name": "玄幻",
+          "Value": "https://www.qidian.com/all/chanId21/",
           "SubItems": [
             {
               "Value": "https://www.qidian.com/all/chanId21-subCateId8/",
@@ -389,7 +390,7 @@
           ]
         }
       ],
-      "sex": 1
+      "sex": "男频"
     },
     {
       "Data": [
@@ -713,7 +714,7 @@
           ]
         }
       ],
-      "sex": 0
+      "sex": "女频"
     }
   ]
 }
