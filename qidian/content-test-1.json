@@ -6,28 +6,33 @@
           "Name": "全部",
           "SubItems": [
             {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_hot",
-              "Name": "热搜榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_good",
-              "Name": "好评榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_finish",
-              "Name": "完结榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_increase",
-              "Name": "蹿升榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_new",
-              "Name": "新书榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_update",
-              "Name": "勤更榜"
+              "Name": "全部\n",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_finish",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=male&cate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
             }
           ]
         },
@@ -1643,28 +1648,33 @@
           "Name": "全部",
           "SubItems": [
             {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_hot",
-              "Name": "热搜榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_good",
-              "Name": "好评榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_finish",
-              "Name": "完结榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_increase",
-              "Name": "蹿升榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_new",
-              "Name": "新书榜"
-            },
-            {
-              "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_update",
-              "Name": "勤更榜"
+              "Name": "全部\n",
+              "NewKey": [
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_hot",
+                  "Name": "热搜榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_good",
+                  "Name": "好评榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_finish",
+                  "Name": "完结榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_increase",
+                  "Name": "蹿升榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_new",
+                  "Name": "新书榜"
+                },
+                {
+                  "Value": "https://m.sm.cn/api/rest?uc_param_str=dnntnwvepffrgibijbprsvdsdichei&method=Novelnew.home&format=html&schema=v2&gender=female&cate=全部&rank=rank_update",
+                  "Name": "勤更榜"
+                }
+              ]
             }
           ]
         },
